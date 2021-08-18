@@ -1,0 +1,67 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+body{
+    background-image: url("../imagenes/Holi.png");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.header .navbar{
+    background-color: transparent !important;
+}
+
+.logo {
+   position: relative;
+   left: 300px;
+}
+
+#footer {
+    background-color: #944800;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: auto;
+}
+
+.p3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.boton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    background-color: #bf5d0c;
+    height: 40px;
+    width: 13%;
+    border-radius: 20px;
+}
+.m1 {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.iconos {
+    display: flex;
+    font-size: 30px;
+    
+}
+
+.direccion {
+    margin-top: 30px;
+}
